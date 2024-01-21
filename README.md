@@ -12,7 +12,7 @@ Contributing
 ### Introduction
 Managing your expenses has never been easier! The Expense Tracker App allows you to record and monitor your expenditures effortlessly. Whether you're on a budget or just want to stay financially organized, this app is here to help.
 
-###Features
+### Features
 📊 Dashboard Overview: Get a quick overview of your expenses with a user-friendly dashboard.
 
 💰 Expense Categories: Categorize your expenses to better understand where your money is going.
