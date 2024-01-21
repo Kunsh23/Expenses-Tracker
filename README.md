@@ -28,25 +28,25 @@ Managing your expenses has never been easier! The Expense Tracker App allows you
 🎨 Theme Toggle: Personalize your experience with a light and dark theme toggle to suit your preferences.
 
 ### Installation
-Clone the repository:
+Step 1. Clone the repository:
 
-bash
+Step 2. bash
 Copy code
 git clone https://github.com/Kunsh23/Expenses-Tracker
 Navigate to the project directory:
 
-bash
+Step 3. bash
 Copy code
 cd expense-tracker-react
 Install dependencies:
 
-bash
+Step 4. bash
 Copy code
 npm install
 Usage
 Start the development server:
 
-bash
+Step 5. bash
 Copy code
 npm start
 Open your browser and go to http://localhost:3000 to use the Expense Tracker App.
