@@ -17,12 +17,6 @@ Managing your expenses has never been easier! The Expense Tracker App allows you
 
 💰 Expense Categories: Categorize your expenses to better understand where your money is going.
 
-📅 Date Filtering: Filter and view expenses based on specific dates to track your spending over time.
-
-🔍 Search Functionality: Easily find specific expenses with the search functionality.
-
-📈 Graphical Representation: Visualize your spending patterns with interactive charts and graphs.
-
 📱 Responsive Design: Access the app seamlessly on various devices, ensuring a consistent experience.
 
 🎨 Theme Toggle: Personalize your experience with a light and dark theme toggle to suit your preferences.
