@@ -54,7 +54,7 @@ Open your browser and go to http://localhost:3000 to use the Expense Tracker App
 Start adding your expenses and enjoy financial transparency!
 
 ### Theme Toggle
-Customize your viewing experience with our theme toggle feature. Click on the moon icon 🌙 or sun icon ☀️ in the app to switch between light and dark themes. Choose the theme that suits your mood and enhances your user experience.
+Customize your viewing experience with our theme toggle feature. Click on the 🌙 theme toggle ☀️ in the app to switch between light and dark themes. Choose the theme that suits your mood and enhances your user experience.
 
 ### Contributing
 We welcome contributions! Feel free to open issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
