@@ -1,7 +1,7 @@
-#Expense Tracker App in React JS 💸
+# Expense Tracker App in React JS 💸
 Welcome to the Expense Tracker App, a simple and efficient way to keep track of your expenses built using React JS! 🚀
 
-##Table of Contents
+## Table of Contents
 Introduction
 Features
 Installation
@@ -9,7 +9,7 @@ Usage
 Theme Toggle
 Contributing
 
-###Introduction
+### Introduction
 Managing your expenses has never been easier! The Expense Tracker App allows you to record and monitor your expenditures effortlessly. Whether you're on a budget or just want to stay financially organized, this app is here to help.
 
 ###Features
@@ -27,7 +27,7 @@ Managing your expenses has never been easier! The Expense Tracker App allows you
 
 🎨 Theme Toggle: Personalize your experience with a light and dark theme toggle to suit your preferences.
 
-###Installation
+### Installation
 Clone the repository:
 
 bash
@@ -53,8 +53,8 @@ Open your browser and go to http://localhost:3000 to use the Expense Tracker App
 
 Start adding your expenses and enjoy financial transparency!
 
-###Theme Toggle
+### Theme Toggle
 Customize your viewing experience with our theme toggle feature. Click on the moon icon 🌙 or sun icon ☀️ in the app to switch between light and dark themes. Choose the theme that suits your mood and enhances your user experience.
 
-###Contributing
+### Contributing
 We welcome contributions! Feel free to open issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
