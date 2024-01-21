@@ -32,7 +32,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/expense-tracker-react.git
+git clone https://github.com/Kunsh23/Expenses-Tracker
 Navigate to the project directory:
 
 bash
